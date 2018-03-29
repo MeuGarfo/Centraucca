@@ -25,6 +25,6 @@ E na próxima ```<div>``` escolha o tipo de centralização na ```class``` (__Ho
         </div>
     </div>
 ```
-Nesse Exemplo toda ``` <div class="row vertical">``` irá ficar centralizada na vertical.
+Nesse Exemplo toda ``` <div class="row vertical horizontal">``` irá ficar centralizada na vertical e horizontal.
 
 ### É isso!
