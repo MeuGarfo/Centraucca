@@ -12,7 +12,7 @@ E na próxima ```<div>``` escolha o tipo de centralização na ```class``` (__Ho
 ### Exemplo utilizando o Grid do Bootstrap
 ```html
     <div class="container centraucca">
-        <div class="row vertical">
+        <div class="row vertical horizontal">
             <div class="col-sm">
                 One of three columns
             </div>
