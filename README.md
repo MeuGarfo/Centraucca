@@ -6,12 +6,12 @@ O __Centraucca__ ajuda a você a centralizar alguns elemento HTML sem precisar e
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/luccadias/Centraucca/master/centraucca.css">
 ```
 ## Como usar
-Utilize a ```class```  __centraucca__ na sua ```<div>``` principal.
+Utilize a ```class```  __Centraucca__ na sua ```<div>``` principal.
 E na próxima ```<div>``` escolha o tipo de centralização na ```class``` (__Horizontal ou Vertical__).
 
 ### Exemplo utilizando o Grid do Bootstrap
 ```html
-    <div class="container centraucca">
+    <div class="container Centraucca">
         <div class="row vertical horizontal">
             <div class="col-sm">
                 One of three columns
